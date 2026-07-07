@@ -1,0 +1,18 @@
+Libraries Used
+
+1. NLTK (Natural Language Toolkit)
+   - Used to build the chatbot and generate responses using pattern matching.
+   - The Chat class is used to manage conversations between the user and the chatbot.
+   - The reflections dictionary is used to provide more natural responses.
+
+Project Requirements
+
+Software Requirements:
+• Python 3.x
+• NLTK Library
+• Any Python IDE (VS Code, PyCharm, IDLE, etc.)
+
+Hardware Requirements:
+• Computer or Laptop
+• Minimum 4 GB RAM
+• Keyboard for user interaction
